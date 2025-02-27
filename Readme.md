@@ -71,7 +71,7 @@ This will provide solar output predictions for major cities in Pakistan.
 ## Results & Performance
 ### Correlation Matrix
 
-![Correlation_Matrix](Utilis\Corelation.png)
+![Correlation_Matrix](Utilis\Corelation_Mat.png)
 The above image represents the correlation matrix between various meteorological and irradiance parameters used in the training process. This helps identify relationships between features and their impact on solar power prediction.
 
 ### GUI Interface
