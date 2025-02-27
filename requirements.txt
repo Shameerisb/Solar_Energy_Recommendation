@@ -1,0 +1,10 @@
+PyQt5
+joblib
+pandas
+numpy
+matplotlib
+scipy
+seaborn
+lightgbm
+scikit-learn
+folium
